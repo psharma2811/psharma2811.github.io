@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Watch Men 1",
+    "category": "watch",
+    "subcategory": "men",
+    "price": 120,
+    "image": "assets/images/1.png",
+    "description": "Stylish men's watch"
+  },
+  {
+    "id": 2,
+    "name": "Watch Men 2",
+    "category": "watch",
+    "subcategory": "men",
+    "price": 130,
+    "image": "assets/images/2.png",
+    "description": "Classic men's watch"
+  },
+  {
+    "id": 3,
+    "name": "Watch Men 3",
+    "category": "watch",
+    "subcategory": "men",
+    "price": 110,
+    "image": "assets/images/3.png",
+    "description": "Premium men's watch"
+  },
+  {
+    "id": 4,
+    "name": "Watch Men 4",
+    "category": "watch",
+    "subcategory": "men",
+    "price": 140,
+    "image": "assets/images/4.png",
+    "description": "Luxury men's watch"
+  },
+  {
+    "id": 5,
+    "name": "Watch Men 5",
+    "category": "watch",
+    "subcategory": "men",
+    "price": 125,
+    "image": "assets/images/5.png",
+    "description": "Modern men's watch"
+  },
+
+  {
+    "id": 6,
+    "name": "Watch Women 1",
+    "category": "watch",
+    "subcategory": "women",
+    "price": 115,
+    "image": "assets/images/6.png",
+    "description": "Elegant women's watch"
+  },
+  {
+    "id": 7,
+    "name": "Watch Women 2",
+    "category": "watch",
+    "subcategory": "women",
+    "price": 140,
+    "image": "assets/images/7.png",
+    "description": "Luxury women's watch"
+  },
+  {
+    "id": 8,
+    "name": "Watch Kids 1",
+    "category": "watch",
+    "subcategory": "kids",
+    "price": 80,
+    "image": "assets/images/8.png",
+    "description": "Kids fun watch"
+  },
+
+  {
+    "id": 9,
+    "name": "Glasses Men 1",
+    "category": "glasses",
+    "subcategory": "men",
+    "price": 60,
+    "image": "assets/images/9.png",
+    "description": "Stylish glasses"
+  },
+  {
+    "id": 10,
+    "name": "Glasses Women 1",
+    "category": "glasses",
+    "subcategory": "women",
+    "price": 65,
+    "image": "assets/images/10.png",
+    "description": "Fashion glasses"
+  },
+  {
+    "id": 11,
+    "name": "Glasses Kids 1",
+    "category": "glasses",
+    "subcategory": "kids",
+    "price": 40,
+    "image": "assets/images/11.png",
+    "description": "Kids glasses"
+  },
+
+  {
+    "id": 12,
+    "name": "Shoes Men 1",
+    "category": "shoes",
+    "subcategory": "men",
+    "price": 150,
+    "image": "assets/images/12.png",
+    "description": "Running shoes"
+  },
+  {
+    "id": 13,
+    "name": "Shoes Women 1",
+    "category": "shoes",
+    "subcategory": "women",
+    "price": 140,
+    "image": "assets/images/13.png",
+    "description": "Casual shoes"
+  },
+  {
+    "id": 14,
+    "name": "Shoes Kids 1",
+    "category": "shoes",
+    "subcategory": "kids",
+    "price": 90,
+    "image": "assets/images/14.png",
+    "description": "Kids shoes"
+  }
+]
